@@ -1,4 +1,6 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+This is source code of a simple market web app that fetchs every market price live from a socket
+
+In this web app we tried to use ```Clean Architecture``` to implement this functionality
 
 ## Getting Started
 
